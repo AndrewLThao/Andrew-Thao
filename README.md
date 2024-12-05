@@ -5,6 +5,7 @@
 
 
 <h2>🎖️Certificate</h2>
+  - CompTIA Tech+ Currently in school for it
 
 <h2> 🤳 Connect with me:</h2>
 
