@@ -1,8 +1,6 @@
 <h1>Hi, I'm Andrew!
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Project](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
