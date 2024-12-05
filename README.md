@@ -16,7 +16,7 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: 
-[instagram]: https://www.instagram.com/andr3wthao
+[instagram]: https://www.instagram.com/andr3wthao/#
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
